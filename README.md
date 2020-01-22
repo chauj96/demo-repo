@@ -3,7 +3,7 @@
 
 Compare the efficiency of in b/w each code 
 
--openMP_mkl 
+-openMP_mkl \n
 cblas_dgemm with omp and mkl
 
 -openMP_mkl2
